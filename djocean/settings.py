@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "oceanapp.apps.OceanappConfig"
 ]
 
 MIDDLEWARE = [
